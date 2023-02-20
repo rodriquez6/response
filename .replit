@@ -1,0 +1,6 @@
+run = ["bash", "app.sh"]
+
+entrypoint = "app.sh"
+
+[nix]
+channel = "stable-21_11"
